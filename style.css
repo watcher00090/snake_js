@@ -1,0 +1,7 @@
+#board {
+  border: 1px solid black;
+}
+
+td {
+	border: .5px solid black;
+}
